@@ -58,4 +58,4 @@ This repository contains various deep learning experiments using simple neural n
 
 ---
 
-This format uses a line (`---`) to separate each experiment, ensuring there is space between each experiment for better readability. You can copy and paste this into your README file or markdown documentation.
+
